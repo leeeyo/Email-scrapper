@@ -1,0 +1,29 @@
+Validated Email Results
+Date: 2025-05-27 16:45:38
+Total Valid Emails: 12
+==================================================
+
+Email: 123@abc.com
+------------------------------
+Email: abcd@gmail.com
+------------------------------
+Email: customerservice@dubins.ae
+------------------------------
+Email: dean.s@hausandhaus.com
+------------------------------
+Email: enquiry@thedubaimall.com
+------------------------------
+Email: ghanem@oiaproperties.com
+------------------------------
+Email: hani@alarfeenrealestate.ae
+------------------------------
+Email: mohamad.b@famproperties.com
+------------------------------
+Email: pf.albina@thecapitalavenue.com
+------------------------------
+Email: sf.info@rea-group.com
+------------------------------
+Email: shahzaibnoor@houseandhedges.ae
+------------------------------
+Email: xxxxx@xxx.com
+------------------------------

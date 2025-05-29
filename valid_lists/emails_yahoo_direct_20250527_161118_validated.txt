@@ -1,0 +1,73 @@
+Validated Email Results
+Date: 2025-05-27 16:46:54
+Total Valid Emails: 34
+==================================================
+
+Email: 123@abc.com
+------------------------------
+Email: aahmed@gulfnews.com
+------------------------------
+Email: aalhammadi@gulfnews.com
+------------------------------
+Email: agali@gulfnews.com
+------------------------------
+Email: ahammadi@gulfnews.com
+------------------------------
+Email: ajanta@khaleejtimes.com
+------------------------------
+Email: angel@khaleejtimes.com
+------------------------------
+Email: ayaz@khaleejtimes.com
+------------------------------
+Email: baainfo@jumeirah.com
+------------------------------
+Email: breporter@gulfnews.com
+------------------------------
+Email: contact@jumeirah.com
+------------------------------
+Email: dgokulan@gulfnews.com
+------------------------------
+Email: elizabeth@khaleejtimes.com
+------------------------------
+Email: enquiry@thedubaimall.com
+------------------------------
+Email: feedback@gulfnews.com
+------------------------------
+Email: gnfocus_mr@gulfnews.com
+------------------------------
+Email: gnreport@gulfnews.com
+------------------------------
+Email: hind@khaleejtimes.com
+------------------------------
+Email: huda.ata@gulfnews.com
+------------------------------
+Email: kalamir@gulfnews.com
+------------------------------
+Email: kcoelho@gulfnews.com
+------------------------------
+Email: laraib@khaleejtimes.com
+------------------------------
+Email: meher@khaleejtimes.com
+------------------------------
+Email: mnair@gulfnews.com
+------------------------------
+Email: mradhakrishnan@gulfnews.com
+------------------------------
+Email: pooja@khaleejtimes.com
+------------------------------
+Email: sahim@khaleejtimes.com
+------------------------------
+Email: sdhal@gulfnews.com
+------------------------------
+Email: sf.info@rea-group.com
+------------------------------
+Email: svasundharadevi@gulfnews.com
+------------------------------
+Email: waheedabbas@khaleejtimes.com
+------------------------------
+Email: wam@gulfnews.com
+------------------------------
+Email: xxxxx@xxx.com
+------------------------------
+Email: xxxxxx@gmail.com
+------------------------------
